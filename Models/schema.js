@@ -13,7 +13,7 @@ const schema=new mongoose.Schema({
     locality:{
         type:String,
         required:true,
-        default:"vwmd"
+        default:"vmwd"
     },
     sub:{
         type:Boolean,
